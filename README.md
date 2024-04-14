@@ -1,4 +1,2 @@
-# tutorial-php-mvc
-Belajar PHP MVC
-
-## https://www.php.net
+# Tutorial PHP MVC
+#### https://www.php.net
